@@ -1,7 +1,7 @@
 {
 "companyName": "GeekGang",
-"productName": "HotelRedRum_Demo",
-"productVersion": "2.0",
+"productName": "HotelRedRum_Beta",
+"productVersion": "3.0",
 "dataUrl": "RedRum-WEB.data.unityweb",
 "wasmCodeUrl": "RedRum-WEB.wasm.code.unityweb",
 "wasmFrameworkUrl": "RedRum-WEB.wasm.framework.unityweb",
@@ -10,7 +10,7 @@
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
 "cacheControl": {"default": "must-revalidate"},
-"developmentBuild": false,
+"developmentBuild": true,
 "multithreading": false,
 "unityVersion": "2019.2.10f1"
 }
