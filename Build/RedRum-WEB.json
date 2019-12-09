@@ -1,7 +1,7 @@
 {
 "companyName": "GeekGang",
-"productName": "HotelRedRum_V3",
-"productVersion": "3.0",
+"productName": "Hotel RedRum",
+"productVersion": "4.0",
 "dataUrl": "RedRum-WEB.data.unityweb",
 "wasmCodeUrl": "RedRum-WEB.wasm.code.unityweb",
 "wasmFrameworkUrl": "RedRum-WEB.wasm.framework.unityweb",
